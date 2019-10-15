@@ -1,6 +1,6 @@
-# The Email Starter Kit
+# The HTML Email Starter Kit
 
-A toolkit for building elegant, widely-supported, responsive emails.
+A toolkit for building elegant, widely-supported, responsive HTML emails.
 
 ## Contents 
 
