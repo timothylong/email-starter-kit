@@ -36,7 +36,3 @@ A simple transactional template. [View CodePen demo](https://codepen.io/timothyl
 - Inbox (iOS)
 - Yahoo (iOS)
 - Outlook (iOS)
-
-## Author 
-
-I'm a designer and front-end developer primarily working on websites, but occasionally on HTML email. I designed this resource to make the latter a little bit easier. I'd be happy to converse about this project (or any number of things) [over on Twitter](https://twitter.com/timothylong).
